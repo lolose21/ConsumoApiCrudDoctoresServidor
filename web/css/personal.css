@@ -1,0 +1,29 @@
+
+
+body {
+
+/* Ubicación de la imagen */
+
+background-image: url(https://i.pinimg.com/originals/09/13/33/0913337ba25be74724583d4fcdd107bd.jpg);
+
+/* Para dejar la imagen de fondo centrada, vertical y
+
+horizontalmente */
+
+background-position: center center;
+
+/* Para que la imagen de fondo no se repita */
+
+background-repeat: no-repeat;
+
+/* La imagen se fija en la ventana de visualización para que la altura de la imagen no supere a la del contenido */
+
+background-attachment: fixed;
+
+/* La imagen de fondo se reescala automáticamente con el cambio del ancho de ventana del navegador */
+
+background-size: cover;
+
+
+
+}
